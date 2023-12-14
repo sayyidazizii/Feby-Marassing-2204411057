@@ -12,6 +12,15 @@ body {
     height: 50%;
 }
 
+div.top-menu {
+    position: fixed;
+    background-color:#ADFF2F;
+    margin-top: 2%;
+    margin-left: 2%;
+    width: 12vw;
+    height: 5%;
+}
+
 div.comment{
     position: fixed;
     width: 300px;
